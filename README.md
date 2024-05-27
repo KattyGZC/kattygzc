@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, Bienvenido a mi perfil</h1>
+<h2 align="center"> Soy Kathy Zambrano </h2>
+<h3 align="center"> Backend Developer | Python | Django | SQL | Data Analysis </h3>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KattyGZC" alt="KattyGZC" /></a> </p>
 
 <!--
 **KattyGZC/kattygzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
