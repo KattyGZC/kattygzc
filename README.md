@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=KattyGZC&label=Profile%20views&color=0e75b6&style=flat" alt="alevllgs" />
 </p>
 
-- 🔭 I’m currently looking for a new job.
+- 🔭 I’m a Senior Backend Developer on [Belozfi](https://www.linkedin.com/company/belozfi).
 - 🌱 I’m currently learning Data Analysis
 - 💬 Ask me about Data
 - 📫 How to reach me: [Here!](mailto:kattyko.gzc@gmail.com)
