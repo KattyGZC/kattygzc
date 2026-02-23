@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
 <h2 align="center"> I'm Kathy Zambrano </h2>
-<h3 align="center"> Backend Developer | Python | Django | SQL | FastAPI </h3>
+<h3 align="center"> Software Developer | Python | Django | SQL | FastAPI | Typescript | Express.js </h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KattyGZC" alt="KattyGZC" /></a> </p>
@@ -13,9 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=KattyGZC&label=Profile%20views&color=0e75b6&style=flat" alt="alevllgs" />
 </p>
 
-- 🔭 I’m a Senior Backend Developer on [Belozfi](https://www.linkedin.com/company/belozfi).
-- 🌱 I’m currently learning Data Analysis
-- 💬 Ask me about Data
+- 🔭 I’m a Senior Software Developer.
 - 📫 How to reach me: [Here!](mailto:kattyko.gzc@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
@@ -49,3 +47,4 @@ Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KattyGZC&show_icons=true&locale=en" alt="KattyGZC" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KattyGZC&" alt="KattyGZC" /></p>
+
